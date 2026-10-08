@@ -3,7 +3,7 @@ import requests
 
 # Настройки конфигурации
 ALERTS_API_TOKEN = "13b3f6caec12374216591727c14e354dd2b6af37ab2203"
-TELEGRAM_BOT_TOKEN = "⁠8933448303:AAGocnOGnKkFW6p3sz8GVpkgeEq0eDNy0ec⁠"
+TELEGRAM_BOT_TOKEN = "8976459299:AAE0LcwUHfyROc27i2pC5uWGrONeD646xIo⁠⁠"
 CHANNEL_ID = "@ppivdenyy1"
 
 # Отслеживаемые регионы
