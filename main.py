@@ -63,6 +63,7 @@ def send_telegram_message(text):
 print("Script started monitoring locations:", TARGET_LOCATIONS)
 
 
+send_telegram_message("🧪 Тестовый запуск: бот успешно подключен и готов к работе!")
 while True:
     active_alarms = check_alarms()
     if active_alarms is not None:
@@ -79,4 +80,3 @@ while True:
     
     time.sleep(15)
 
-send_telegram_message("🧪 Тестовый запуск: бот успешно подключен и готов к работе!")
