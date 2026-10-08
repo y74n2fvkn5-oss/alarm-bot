@@ -78,3 +78,5 @@ while True:
                 send_telegram_message(message)
     
     time.sleep(15)
+
+send_telegram_message("🧪 Тестовый запуск: бот успешно подключен и готов к работе!")
