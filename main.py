@@ -75,3 +75,4 @@ while True:
                 send_telegram_message(message)
                 print(f"Sent message for {loc}: {message}")
     time.sleep(15)
+send_telegram_message("🧪 Тест: бот успешно отправляет сообщения в канал!")
