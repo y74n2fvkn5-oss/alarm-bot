@@ -61,8 +61,6 @@ def send_telegram_message(text):
 
 print("Script started monitoring locations:", TARGET_LOCATIONS)
 
-# Тестовое сообщение при запуске для проверки связи
-send_telegram_message("✏️ Тест: бот успешно запущен и проверяет связь с каналом!")
 
 while True:
     active_alarms = check_alarms()
